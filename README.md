@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project.
+
 Repo ini dibuat untuk memenuhi tugas Proyek4 Minggu ke 2
 
 ## Getting Started
