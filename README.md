@@ -4,6 +4,11 @@ A new Flutter project.
 
 Repo ini dibuat untuk memenuhi tugas Proyek4 Minggu ke 2
 
+![image](https://github.com/naufalfad/Proyek4/assets/123913606/0ef0fda4-40c1-4347-b3e1-ba1db9cc8c25)
+
+![image](https://github.com/naufalfad/Proyek4/assets/123913606/a3b44b02-bc51-499c-856f-3125be63b633)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
